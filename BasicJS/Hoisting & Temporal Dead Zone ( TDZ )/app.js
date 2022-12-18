@@ -46,6 +46,7 @@
 
 
 
+
 // RETURN UNDEFINED with var
 
 {
@@ -55,3 +56,5 @@
   console.log(bestFood); // return "Riso saltato con verdure" TDZ dont exist here
   // TDZ dont exist here
 }
+
+
