@@ -31,7 +31,7 @@ let myBestMeal // 2. il computer ha analizzato la dichiarazione della variabile 
 
 bestFood = "Pizza"; // 3. il computer ha inizializzato la variabile bestFood
 
-myBestMeal = function () {
+myBestMeal = () => {
   console.log(bestFood);
   let bestFood = "Riso saltato con verdure";
 }; // 4. JavaScript inizializza la variabile myBestMeal
