@@ -4,6 +4,10 @@
 
 🚀 Free Code Camp: https://www.freecodecamp.org/italian/news/zona-morta-temporale-tdz-e-sollevamento-in-javascript-spiegazione-con-esempi/
 
+🚀 Dave Gray: https://www.youtube.com/watch?v=_uTDzYyYz-U
+
+🚀 Web Dev Simplified: https://www.youtube.com/watch?v=EvfRXyKa_GI
+
 🚀 MDN web docs: https://developer.mozilla.org/en-US/docs/Glossary/Hoisting?retiredLocale=it
 
 ### Infos

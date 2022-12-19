@@ -23,7 +23,7 @@ esterna()
 
 function esterna2() {
 
-  return interna()
+  return interna() // Uncaught TypeError
 
   var interna = () => {
     console.log('interna2')
