@@ -13,22 +13,21 @@ console.log(`Global, ${z}`)
 function myFunc() {
   var x = 10
   const z = 5
-  console.log(`Function, ${x}`) // Function Scope
-  console.log(`Function, ${y}`)
-  console.log(`Function, ${z}`)
 
   {
-    var x = 12
+    var x = 12 // Function Scope ( cause var )
     const z = 6
     console.log(`Block, ${x}`) //  Block Scope
     console.log(`Block, ${y}`)
     console.log(`Block, ${z}`)
   }
+
+  console.log(`Function, ${x}`)
+  console.log(`Function, ${y}`)
+  console.log(`Function, ${z}`)
+
 }
 
 myFunc()
 
-console.log('* * * * * * * * * *')
-console.log('* * * * * * * * * *')
-console.log('* * * * * * * * * *')
 
