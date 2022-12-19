@@ -16,9 +16,9 @@
 - Funtion Scope
 
 [Global] = Not in a function or block. <br>
-[Local] = In a function or block
-[var] = Instantiates function() scoped variables
-[let] and [const] = Instantiate {block} scoped variables
+[Local] = In a function or block <br>
+[var] = Instantiates function() scoped variables <br>
+[let] and [const] = Instantiate {block} scoped variables <br>
 
 ✔️ Avoid using var. Stick with const and let
 ✔️ Use const unless you need to reassing value
