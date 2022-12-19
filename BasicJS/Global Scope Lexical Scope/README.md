@@ -20,8 +20,8 @@
 [var] = Instantiates function() scoped variables <br>
 [let] and [const] = Instantiate {block} scoped variables <br>
 
-✔️ Avoid using var. Stick with const and let
-✔️ Use const unless you need to reassing value
-✔️ Use let if you know you will reassing value
+✔️ Avoid using var. Stick with const and let <br>
+✔️ Use const unless you need to reassing value <br>
+✔️ Use let if you know you will reassing value <br>
 
 
