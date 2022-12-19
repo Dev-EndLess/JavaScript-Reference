@@ -13,7 +13,7 @@
 ### Infos
 
 - What and Where is temporal dead zone in JS
-- TDZ with [var] -vs- TDZ with [let] and [const]
+- TDZ with [var]() -vs- TDZ with [let]() and [const]()
 - What mean Hoisting in JS
 - How Hoisting Work
 
