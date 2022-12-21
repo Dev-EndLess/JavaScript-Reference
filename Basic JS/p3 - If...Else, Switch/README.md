@@ -1,5 +1,4 @@
-# Conditional Statement || Comparision Operators
-
+# Conditional Statement 
 ### YOUTUBE Free Code Camp Videos 
 
 🚀 FFC Switch: https://www.youtube.com/watch?v=7WkfzokHGqo&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&index=14
@@ -9,13 +8,6 @@
 ✔️ If <br>
 ✔️ Else <br>
 ✔️ Switch <br>
-
-✔️ < <br>
-✔️ <= <br>
-✔️ > <br>
-✔️ >= <br>
-✔️ == <br>
-✔️ != <br>
 
 #### Details Info Here ⬇️
 

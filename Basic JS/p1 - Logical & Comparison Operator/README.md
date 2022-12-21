@@ -1,10 +1,17 @@
-# LOGICAL OPERATOR - AND: && - OR: ||
+# Logical Operators || Comparision Operators
 
 - Comparison and Logical operators are used to test for true or false.
 
 ### YOUTUBE Free Code Camp Videos 
 
 🚀 Logical Operators: https://www.youtube.com/watch?v=r7v6EIiHfVA&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&index=12
+
+✔️ < <br>
+✔️ <= <br>
+✔️ > <br>
+✔️ >= <br>
+✔️ == <br>
+✔️ != <br>
 
 ✔️ AND: && <br>
 ✔️ OR: || <br>
