@@ -6,6 +6,13 @@
 // OR: ||
 // NOT: !
 
+// < <br>
+// <= <br>
+// > <br>
+// >= <br>
+// == <br>
+// != <br></br>
+
 if (4 > 5 && 5 < 6) {
   console.log('yes')
 } else {

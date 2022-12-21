@@ -4,16 +4,17 @@
 
 🚀 Optional Chaining: https://www.youtube.com/watch?v=K7rHYyf6E0g
 
+🚀 Optional Chaining: https://www.youtube.com/watch?v=RA8RHgzPokk
+
 ✔️ AND: && <br>
 ✔️ OR: || <br>
 ✔️ NOT: ! <br>
 
-
 #### Details Info Here ⬇️
 
-🚀 Optional Chaining: https://javascript.info/optional-chaining
+🚀 FFC Optional Chaining: https://www.freecodecamp.org/news/javascript-optional-chaining-explained/
 
-🚀 Optional Chaining: https://www.freecodecamp.org/news/javascript-optional-chaining-explained/
+🚀 JSinfo Optional Chaining: https://javascript.info/optional-chaining
 
 
 #### W3 Schools

@@ -1,10 +1,17 @@
-# TERNARY OPERATOR
+# Logical Operators || Comparision Operators
 
 - Comparison and Logical operators are used to test for true or false.
 
 ### YOUTUBE Free Code Camp Videos 
 
 🚀 Ternary Operators: https://www.youtube.com/watch?v=s4sB1hm73tw&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&index=13
+
+✔️ < <br>
+✔️ <= <br>
+✔️ > <br>
+✔️ >= <br>
+✔️ == <br>
+✔️ != <br>
 
 ✔️ AND: && <br>
 ✔️ OR: || <br>
