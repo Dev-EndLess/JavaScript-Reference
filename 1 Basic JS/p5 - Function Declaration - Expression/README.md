@@ -1,6 +1,6 @@
 # Function Declaration || Function Expression
 
-### YOUTUBE Free Code Camp Videos 
+### YOUTUBE Videos 
 
 🚀 Dave Gray Functions: https://www.youtube.com/watch?v=u_lLNH38n5E&list=PL0Zuz27SZ-6Oi6xNtL_fwCrwpuqylMsgT
 
