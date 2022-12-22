@@ -1,17 +1,23 @@
-//* * * IMPORT * * *//
+//* * * EXPORT * * *//
 
-import sum from './app.js'
-sum(5, 5)
+// you can export adding export before function or class
+// or you can export in the bottom of the page
+// you can use export default only 1 thing
 
-import { somma, sottrazione, moltiplicazione } from './app.js'
+export default class User {
+  constructor(name, age) {
+    this.name = name
+    this.age = age
+  }
+}
 
+ export function printName(user) {
+  console.log(`User's name is ${user.name}`)
+ }
 
+ export function printAge(user) {
+  console.log(`User is ${user.age} years old`)
+ }
 
-// import * as . . . . from './funzioni.js'
-// importa tutto dal file
-
-
-somma(2, 2)
-sottrazione(3, 3)
-moltiplicazione(4, 4)
-
+//  export default User
+//  export { printName, printAge }

@@ -1,28 +1,9 @@
-//* * * EXPORT * * *//
+//* * * IMPORT * * *//
 
-export default function sum(n1, n2) {
-  return n1 + n2
-}
+// import in curly brackets if is not default export
+import User, { printName, printAge } from './app2.js'
 
-
-
-
-// const somma = (a, b) => {
-//   return a + b
-// }
-
-
-// const sottrazione = (x, y) => {
-//   return x - y;
-// }
-
-// const moltiplicazione = (num1, num2) => {
-//   return num1 * num2
-// }
-
-// export { somma, sottrazione, moltiplicazione }
-
-
-
-//-----------------------------------------------------------
-
+const user = new User('Bob', 11)
+printName(user)
+printAge(user)
+console.log(user)
