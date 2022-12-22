@@ -1,50 +1,56 @@
-//* * * Document Object * * */
+//* * * TRAVERSING THE DOM * * *//
 
-let val
+let val;
 
-val = document.all // return HTML collection
-val = document.all.length // return 8 (tags)
-val = document.head // return head
-val = document.body // return body
-val = document.domain // return ip
-val = document.URL // return localhost
+const list = document.querySelector('ul.collection');
+const listItem = document.querySelector('li.collection-item:first-child');
 
-console.log(val)
+val = listItem;
+val = list;
 
-//* * * DOM SELECTOR * * *//
+// Get child nodes
+val = list.childNodes;
+val = list.childNodes[0];
+val = list.childNodes[0].nodeName;
+val = list.childNodes[3].nodeType;
 
-document.getElementById()
+// 1 - Element
+// 2 - Attribute (deprecated)
+// 3 - Text node
+// 8 - Comment
+// 9 - Document itself
+// 10 - Doctype
 
-console.log(document.getElementById('task-title'));
 
-// Get things from the element
-console.log(document.getElementById('task-title').id);
-console.log(document.getElementById('task-title').className);
+// Get children element nodes
+val = list.children;
+val = list.children[1];
+list.children[1].textContent = 'Hello';
+// Children of children
+list.children[3].children[0].id = 'test-link';
+val = list.children[3].children[0];
 
-const taskTitle = document.getElementById('task-title');
+// First child
+val = list.firstChild;
+val = list.firstElementChild;
 
-// Change styling
-taskTitle.style.background = '#333';
-taskTitle.style.color = '#fff';
-taskTitle.style.padding = '5px';
-// taskTitle.style.display = 'none';
+// Last child
+val = list.lastChild;
+val = list.lastElementChild;
 
-// Change content
-taskTitle.textContent = 'Task List';
-taskTitle.innerText = 'My Tasks';
-taskTitle.innerHTML = '<span style="color:red">Task List</span>';
+// Count child elements
+val = list.childElementCount;
 
-document.querySelector()
+// Get parent node
+val = listItem.parentNode;
+val = listItem.parentElement;
+val = listItem.parentElement.parentElement;
 
-console.log(document.querySelector('#task-title'));
-console.log(document.querySelector('.card-title'));
-console.log(document.querySelector('h5'));
+// Get next sibling
+val = listItem.nextSibling;
+val = listItem.nextElementSibling.nextElementSibling.previousElementSibling;
 
-document.querySelector('li').style.color = 'red';
-document.querySelector('ul li').style.color = 'blue';
-
-document.querySelector('li:last-child').style.color = 'red';
-document.querySelector('li:nth-child(3)').style.color = 'yellow';
-document.querySelector('li:nth-child(4)').textContent = 'Hello World';
-document.querySelector('li:nth-child(odd)').style.background = '#ccc';
-document.querySelector('li:nth-child(even)').style.background = '#f4f4f4';
+// Get prev sibling
+val = listItem.previousSibling;
+val = listItem.previousElementSibling;
+console.log(val);
