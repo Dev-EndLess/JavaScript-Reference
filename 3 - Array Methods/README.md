@@ -10,6 +10,16 @@
 | ✔️ Shift     | ✔️ Unshift  | ✔️ Every    | ✔️ IndexOf  | ✔️ Some     |
 | ✔️ findIndex | ✔️ Find     | ✔️ from     | ✔️ flat     | ✔️ isArray  |
 
+|            Array Method             |
+| ----------------------------------- |
+| ✔️ Slice        | ✔️ Splice        |
+| ✔️ Includes     | ✔️ Join          |
+| ✔️ Shift        | ✔️ Unshift       |
+| ✔️ findIndex    | ✔️ Find          |
+| ✔️ Sort         | ✔️ Reverse       |
+| ✔️ Every        | ✔️ from          |
+| ✔️ Concat 
+
 
 #### W3 Schools ⬇️
 
