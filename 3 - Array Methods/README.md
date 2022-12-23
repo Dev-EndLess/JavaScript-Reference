@@ -16,7 +16,7 @@
 | ✔️ isArray      | ✔️ Some          |
 | ✔️ IndexOf      | ✔️ flat          |
 | ✔️ from         | ✔️ findIndex     |
-
+| ----------------------------------- |
 
 #### W3 Schools ⬇️
 
