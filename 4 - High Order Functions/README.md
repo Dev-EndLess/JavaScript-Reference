@@ -6,6 +6,8 @@
 
 🚀 HOF Brad Traversy: https://www.youtube.com/watch?v=rRgD1yVwIvE
 
+🚀 HOF Florin Pop: https://www.youtube.com/watch?v=IXp06KekEjM&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=1
+
 ✔️ ForEach <br>
 ✔️ Filter <br>
 ✔️ Map <br>
@@ -21,5 +23,8 @@
 
 🚀 W3S Reduce: https://www.w3schools.com/jsref/jsref_reduce.asp
 
+#### FFC Free Code Camp ⬇️
+
+🚀 Map, Filter, Reduce : https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/
 
 
