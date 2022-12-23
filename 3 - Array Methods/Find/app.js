@@ -7,16 +7,18 @@ const array = [
   { name: 'Leon Kennedy', age: 27, gender: 'Male', points: 18, email: 'LeonKennedy@hotmail.com' },
 ]
 
-
-const namePlusAge = array.map(item => `${item.name} ${item.age}`)
-console.log(namePlusAge)
-
-
-const emailPlusGen = array.map(item => `${item.email} ${item.gender}`)
-console.log(emailPlusGen)
+// trovo l'oggetto Ada cercando i suoi punti
+const adaPoints = array.find(item => item.points === 11)
+console.log(adaPoints)
 
 
-// const femaleAge = array
-// .filter(item => item.gender === 'Female')
-// .map(item => `${item.name} ${item.age}`)
-// console.log(femaleAge)
+// trovo l'oggetto Jill cercando la sua eta
+const jillAge = array.find(item => 
+  item.age === 24)
+console.log(jillAge)
+
+
+// trovo l'oggetto Leon cercando la sua email
+const leonMail = array.find(item => 
+  item.email === 'LeonKennedy@hotmail.com')
+console.log(leonMail)
