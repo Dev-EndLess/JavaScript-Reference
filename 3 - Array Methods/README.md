@@ -4,16 +4,23 @@
 
 🚀 HOF Florin Pop: https://www.youtube.com/watch?v=IXp06KekEjM&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=1
 
-✔️ Slice  ✔️ Splice <br>
-✔️ Sort   ✔️ Concat <br>
-✔️ Fill   ✔️ Includes <br>
-✔️ Join   ✔️ Reverse <br>
-✔️ Push   ✔️ Pop <br> 
-✔️ Shift  ✔️ Unshift <br>
-✔️ Every  ✔️ IndexOf <br>
-✔️ Some   ✔️ findIndex <br>
-✔️ Find   ✔️ from <br>
-✔️ flat   ✔️ isArray <br>
+ ✔️ Slice         ✔️ Splice     ✔️ Includes      ✔️ Shift
+ 
+ ✔️ Reverse       ✔️ Push       ✔️ Sort          ✔️ Unshift    
+ 
+ ✔️ Find          ✔️ Every      ✔️ Join          ✔️ Pop  
+ 
+ ✔️ Concat        ✔️ Fill       ✔️ isArray       ✔️ Some          
+ 
+ ✔️ flat          ✔️ from       ✔️ findIndex     ✔️ IndexOf
+
+|             | Array        | Methods    |            |
+|:-----------:|:------------:|:----------:|:----------:|
+| ✔️ Slice    | ✔️ Splice    | ✔️ Sort    | ✔️ Concat  |
+| ✔️ Includes | ✔️ Fill      | ✔️ Join    | ✔️ Reverse |
+| ✔️ Push     | ✔️ Pop       | ✔️ Unshift | ✔️ Shift   |
+| ✔️ Every    | ✔️ Some      | ✔️ Find    | ✔️ IndexOf |
+| ✔️ isArray  | ✔️ findIndex | ✔️ from    | ✔️ flat    |
 
 #### W3 Schools ⬇️
 
