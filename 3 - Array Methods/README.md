@@ -4,16 +4,15 @@
 
 🚀 HOF Florin Pop: https://www.youtube.com/watch?v=IXp06KekEjM&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=1
 
- ✔️ Slice         ✔️ Splice <hr>       
- ✔️ Includes      ✔️ Shift         
- ✔️ Join          ✔️ Unshift       
- ✔️ Reverse       ✔️ Push          
- ✔️ Sort          ✔️ Pop           
- ✔️ Every         ✔️ Find          
- ✔️ Concat        ✔️ Fill          
- ✔️ isArray       ✔️ Some          
- ✔️ IndexOf       ✔️ flat          
- ✔️ from          ✔️ findIndex     
+ ✔️ Slice         ✔️ Splice     ✔️ Includes      ✔️ Shift
+ 
+ ✔️ Reverse       ✔️ Push       ✔️ Sort          ✔️ Unshift    
+ 
+ ✔️ Find          ✔️ Every      ✔️ Join          ✔️ Pop  
+ 
+ ✔️ Concat        ✔️ Fill       ✔️ isArray       ✔️ Some          
+ 
+ ✔️ flat          ✔️ from       ✔️ findIndex     ✔️ IndexOf
 
 #### W3 Schools ⬇️
 
