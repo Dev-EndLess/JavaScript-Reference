@@ -15,6 +15,14 @@
 ✔️ Find   ✔️ from <br>
 ✔️ flat   ✔️ isArray <br>
 
+|             | Array        | Methods    |            |
+|:-----------:|:------------:|:----------:|:----------:|
+| ✔️ Slice    | ✔️ Splice    | ✔️ Sort    | ✔️ Concat  |
+| ✔️ Includes | ✔️ Fill      | ✔️ Join    | ✔️ Reverse |
+| ✔️ Push     | ✔️ Pop       | ✔️ Unshift | ✔️ Shift   |
+| ✔️ Every    | ✔️ Some      | ✔️ Find    | ✔️ IndexOf |
+| ✔️ isArray  | ✔️ findIndex | ✔️ from    | ✔️ flat    |
+
 #### W3 Schools ⬇️
 
 🚀 Array Methods : https://www.w3schools.com/jsref/jsref_obj_array.asp
