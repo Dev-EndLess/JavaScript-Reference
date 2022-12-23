@@ -4,8 +4,6 @@
 
 🚀 HOF Florin Pop: https://www.youtube.com/watch?v=IXp06KekEjM&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=1
 
-|            Array Method             |
-| ⬇️ ------------ | ⬇️ ------------- |
 | ✔️ Slice        | ✔️ Splice        |
 | ✔️ Includes     | ✔️ Shift         |
 | ✔️ Join         | ✔️ Unshift       |
