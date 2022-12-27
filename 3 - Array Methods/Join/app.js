@@ -13,4 +13,4 @@ const nation = ['Italy', 'France', 'Spain', 'Germany']
 const result = nation.join(' / ')
 
 console.log(result)
-console.log(`I want Visit ${result}` )
+console.log(`I want Visit ${result}`)

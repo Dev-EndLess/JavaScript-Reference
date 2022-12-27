@@ -1,3 +1,5 @@
+//* * * FIND * * *//
+
 const array = [
   { name: 'Sara Connor', age: 42, gender: 'Female', points: 7, email: 'SaraConnor@gmail.com' },
   { name: 'John Connor', age: 14, gender: 'Male', points: 4, email: 'JohnConnor@gmail.com' },
