@@ -1,0 +1,66 @@
+[
+  {
+    "race": "Dark Elf",
+    "class": "Blade Dancer",
+    "lvl": 72,
+    "clan": "Tempest",
+    "armor": "Blue Wolf",
+    "weapon": "Dual Caliburs"
+  },
+  {
+    "race": "Elf",
+    "class": "Sword Singer",
+    "lvl": 73,
+    "clan": "Tempest",
+    "armor": "Majestic Heavy",
+    "weapon": "Damascus"
+  },
+  {
+    "race": "Orc",
+    "class": "War Crayer",
+    "lvl": 78,
+    "clan": "Tempest",
+    "armor": "Dark Crystal Set",
+    "weapon": "Club of Nature"
+  },
+  {
+    "race": "Human",
+    "class": "Bishop",
+    "lvl": 74,
+    "clan": "Tempest",
+    "armor": "Dark Crystal Set",
+    "weapon": "Homunculus"
+  },
+  {
+    "race": "Elf",
+    "class": "Elven Elder",
+    "lvl": 76,
+    "clan": "Tempest",
+    "armor": "Majestic Robe",
+    "weapon": "Homonculus"
+  },
+  {
+    "race": "Dark Elf",
+    "class": "Phantom Ranger",
+    "lvl": 75,
+    "clan": "Tempest",
+    "armor": "Plated Set",
+    "weapon": "Bow of Peril"
+  },
+  {
+    "race": "Human",
+    "class": "Hawkeye",
+    "lvl": 74,
+    "clan": "Tempest",
+    "armor": "Majestic Light Set",
+    "weapon": "Soul Bow"
+  },
+  {
+    "race": "Human",
+    "class": "Hawkeye",
+    "lvl": 72,
+    "clan": "Tempest",
+    "armor": "Plated Set",
+    "weapon": "Bow of Peril"
+  }
+]
