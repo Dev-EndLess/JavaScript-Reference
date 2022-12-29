@@ -7,13 +7,13 @@
 
 ❗ Others Infos and Reference down here are from others Sources
 
-✔️ AJAX 
-✔️ XML or XHR (extensible Http Request )
-✔️ HTTP
-✔️ Fetch 
-✔️ Promises
-✔️ Async - Await 
-✔️ API
+✔️ AJAX <br>
+✔️ XML or XHR (extensible Http Request ) <br>
+✔️ HTTP <br>
+✔️ Fetch <br>
+✔️ Promises <br>
+✔️ Async - Await <br>
+✔️ API <br>
 
 ### YOUTUBE Videos
 
