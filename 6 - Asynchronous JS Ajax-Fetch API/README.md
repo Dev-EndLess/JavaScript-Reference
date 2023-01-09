@@ -1,5 +1,6 @@
 # AJAX - Asynchronous JavaScript And XML
 #### XML - extensible Markup Language ( JSON replaced XML for the most part )
+<hr>
 
 ❗ A lot of Reference Materials in this files are from the Udemy Course: Modern Javascript From the Beginning by [BRAD TRAVERSY](https://www.udemy.com/course/modern-javascript-from-the-beginning/learn/lecture/8762282#overview)
 
@@ -7,13 +8,13 @@
 
 ❗ Others Infos and Reference down here are from others Sources
 
-✔️ AJAX 
-✔️ XML or XHR (extensible Http Request )
-✔️ HTTP
-✔️ Fetch 
-✔️ Promises
-✔️ Async - Await 
-✔️ API
+✔️ AJAX <br>
+✔️ XML or XHR (extensible Http Request ) <br>
+✔️ HTTP <br>
+✔️ Fetch <br>
+✔️ Promises <br>
+✔️ Async - Await <br>
+✔️ API <br>
 
 ### YOUTUBE Videos
 
