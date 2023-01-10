@@ -3,15 +3,9 @@ let re
 re = /hello/
 re = /hello/i
 
-// Metacharacter Symbols
+// Character set & Quantifiers
 
-re = /^h/i          // Must start with
-re = /d$/i          // Must ends with
-re = /^hello$/      // Must begin and end with
-re = /^h.llo$/      // Matches any ONE character
-re = /^h*llo$/      // Matches any character 0 or more times
-re = /gre?a?y/i     // Optional character
-re = /gre?a?y\?/i   // Escape character
+
 
 // String to match
 const str = 'Hello World'
