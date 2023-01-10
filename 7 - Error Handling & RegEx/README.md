@@ -4,6 +4,13 @@
 
 ❗ Others Infos and Reference down here are from others Sources
 
+✔️ try & catch & finally <br>
+✔️ Reference Error <br>
+✔️ Type Error <br>
+✔️ Syntax Error <br>
+✔️ URI Error <br>
+✔️ Custom errors <br>
+
 ### YOUTUBE Free Code Camp ⬇️
 
 🚀 Regular Expression (Regex): https://www.youtube.com/watch?v=ZfQFUJhPqMM
@@ -12,17 +19,12 @@
 
 🚀 Regular Expression (Regex): https://www.youtube.com/watch?v=rhzKDrUiJVk
 
-✔️ try & catch & finally <br>
-✔️ Reference Error <br>
-✔️ Type Error <br>
-✔️ Syntax Error <br>
-✔️ URI Error <br>
-✔️ Custom errors <br>
-
-
 #### More Info Here W3S (w3Schools) ⬇️
 
 🚀 Throw, and Try...Catch...Finally: https://www.w3schools.com/js/js_errors.asp
+
+🚀 (Regex) Regular Expression Reference: https://www.w3schools.com/jsref/jsref_obj_regexp.asp
+
 
 
 
