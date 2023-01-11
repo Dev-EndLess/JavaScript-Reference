@@ -1,16 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<<< HEAD:7 - Error Handling & RegEx/4 - Regex ( Form Validation Project )/index.html
-  <title>Regular Expression (Regex) Form Validation</title>
-========
-  <title>Regular Expression (Regex) Metacharacter Symbols</title>
->>>>>>>> parent of 6c2a8bc (updated files):7 - Error Handling & RegEx/3 - Regular Expression ( Metacharacter Symbols )/index.html
-  <script src="app.js" type="module" defer></script>
-</head>
-<body>
-</body>
-</html> 
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Regex Form Validation</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+    crossorigin="anonymous"
+    />
+    <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+    crossorigin="anonymous"
+    ></script>
+    <script src="app.js" type="module" defer></script>
+  </head>
+
+  <body class="bg-dark">
+    <div class="contaienr">
+      <div class="row">
+        <div class="col-md-6 mx-auto border border-light border-1 rounded-1 p-4 m-4">
+          <h1 class="text-center text-light">User Form</h1>
+          <form>
+            <div class="form-group p-2">
+              <label class="text-light p-2">Name</label>
+              <input
+                id="name"
+                placeholder="Name"
+                type="text"
+                class="form-control"
+              />
+              <div class="invalid-feedback">
+                Name must be between 2 and 10 characters
+              </div>
+            </div>
+            <div class="form-group p-2">
+              <label class="text-light p-2">Zipcode</label>
+              <input
+                id="zip"
+                placeholder="Zipcode"
+                type="text"
+                class="form-control"
+              />
+              <div class="invalid-feedback">
+                Enter valid Zipcode
+              </div>
+            </div>
+            <div class="form-group p-2">
+              <label class="text-light p-2">Email</label>
+              <input
+                id="email"
+                placeholder="Email"
+                type="text"
+                class="form-control"
+              />
+              <div class="invalid-feedback">
+                Enter a valid Email
+              </div>
+            </div>
+            <div class="form-group p-2">
+              <label class="text-light p-2">Phone Number</label>
+              <input
+                id="phone"
+                placeholder="Phone Number"
+                type="text"
+                class="form-control"
+              />
+              <div class="invalid-feedback">
+                Enter a valid Phone Number
+              </div>
+            </div>
+            <div class="d-grid gap-2 col-6 mx-auto mt-4">
+              <input type="submit" value="Submit" class="btn btn-primary">
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>
