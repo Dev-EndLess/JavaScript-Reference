@@ -11,3 +11,15 @@ const array = [
 array.forEach(num => console.log(num.points * 2));
 array.forEach(num => console.log('I Personaggi Selezionabili sono ' + num.name ));
 array.forEach(num => console.log('Puoi contattarli all indirizzo ' + num.email ));
+
+console.log('* * * * * * * * * *')
+
+const numbers = [65, 44, 12, 4];
+
+let numPlusTen = []
+
+numbers.forEach(num => {
+  numPlusTen.push(num + 10)
+})
+
+console.log(numPlusTen)
