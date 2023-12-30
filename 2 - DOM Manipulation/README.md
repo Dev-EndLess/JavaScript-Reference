@@ -1,6 +1,6 @@
 # DOM - Document Object Model
 
-❗ Reference Materials in this files are from the Udemy Course: Modern Javascript From the Beginning by [BRAD TRAVERSY](https://www.udemy.com/course/modern-javascript-from-the-beginning/learn/lecture/8757260#overview)
+❗ Reference Materials in this files are from the Udemy Course: Modern Javascript From the Beginning by [Brad Travery](https://www.udemy.com/course/modern-javascript-from-the-beginning/learn/lecture/8757260#overview)
 
 ❗ Others Infos and Reference down here are from others Sources
 
