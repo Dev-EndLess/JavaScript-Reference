@@ -6,10 +6,6 @@
 
 🚀 Optional Chaining: https://www.youtube.com/watch?v=RA8RHgzPokk
 
-✔️ AND: && <br>
-✔️ OR: || <br>
-✔️ NOT: ! <br>
-
 #### Details Info Here ⬇️
 
 🚀 FFC Optional Chaining: https://www.freecodecamp.org/news/javascript-optional-chaining-explained/
