@@ -4,25 +4,13 @@
 
 🚀 FFC Strings Method: https://www.youtube.com/watch?v=VRz0nbax0uI&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&index=6
 
-✔️ charAt() <br>
-✔️ concat() <br>
-✔️ endsWith() <br>
-✔️ startsWith() <br>
-✔️ includes() <br>
-✔️ indexOf() <br>
-✔️ lastIndexOf() <br>
-✔️ match() <br>
-✔️ repeat() <br>
-✔️ replace() <br>
-✔️ search() <br>
-✔️ repeat() <br>
-✔️ slice() <br>
-✔️ substring() <br>
-✔️ split() <br>
-✔️ substr() <br>
-✔️ toLowerCase() <br>
-✔️ toUpperCase() <br>
-✔️ trim() <br>
+|             | Array        | Methods    |            |
+|:---------------: |:----------------: |:---------------: |:----------------: |
+| ✔️ charAt()     | ✔️ indexOf()      | ✔️ search()     | ✔️ substr()       |
+| ✔️ concat()     | ✔️ lastIndexOf()  | ✔️ repeat()     | ✔️ toLowerCase()  |
+| ✔️ endsWith()   | ✔️ match()        | ✔️ slice()      | ✔️ toUpperCase()  |
+| ✔️ startsWith() | ✔️ repeat()       | ✔️ substring()  | ✔️ trim()         |
+| ✔️ includes()   | ✔️ replace()      | ✔️ split()      |                    |
 
 #### W3 Schools ⬇️
 
